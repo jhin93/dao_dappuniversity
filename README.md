@@ -27,4 +27,3 @@
 ### 5. Run 1st script
 `$ truffle exec .\scripts\1_create_proposal.js`
 
-
